@@ -1,7 +1,7 @@
 {
   "name": "MOC",
   "creator": "Commander26",
-  "description": "Just me having a headache because the command isn't working...",
-  "version": "1.0.0",
+  "description": "A Chattriggers module that saves your last opponents on minemen (or maybe other servers?).",
+  "version": "1.0_Public",
   "entry": "index.js"
 }
