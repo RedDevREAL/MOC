@@ -3,7 +3,7 @@ Minemen opponent collector
   
 A Chattriggers module that saves your last opponents on minemen (or maybe other servers?).  
   
-#Installation
+# Installation  
 Step 1: Download and Install the Chattriggers mod [HERE](https://www.chattriggers.com/#download "Install Chattriggers here!").  <br />
 Step 2: Run Minecraft with Chattriggers and join any world or server of your choice.  <br />
 Step 3: Run the command "/ct files".  <br />
